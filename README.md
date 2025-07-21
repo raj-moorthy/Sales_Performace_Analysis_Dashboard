@@ -39,6 +39,6 @@ The dashboard explores sales data from various dimensions, helping stakeholders:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard]()
+![Sales Performance Dashboard](https://github.com/raj-moorthy/Sales_Performace_Analysis_Dashboard/commit/459fc81e46dbb81af3d31357cf81bcbaf7775579)
 
 ---
