@@ -39,6 +39,6 @@ The dashboard explores sales data from various dimensions, helping stakeholders:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](Sales PerformanceAnalysis.png)
+![Sales Performance Dashboard]()
 
 ---
